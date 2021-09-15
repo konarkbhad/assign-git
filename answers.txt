@@ -1,0 +1,8 @@
+What is a gitignore file and what should it include for a Java project?
+--It is used to ignore the files which we don't want in the main respository
+• What does fast-forward in Git mean?
+--The child branch is ahead of the main branch 
+• Why should you have different branches?
+--So that everyone can work individually
+• In a project how many remote Git repositories do you usually have?
+--More than one
